@@ -1,4 +1,0 @@
-﻿[*.vb]
-
-# BC42322: Arabirim türüne veya arabirim türünden dönüştürme yaparken çalışma zamanı hataları oluşabilir
-dotnet_diagnostic.BC42322.severity = none
